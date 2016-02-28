@@ -1,0 +1,6 @@
+[variables]
+name = "hola"
+description = "pepe"
+
+[files]
+"a" = "a"
