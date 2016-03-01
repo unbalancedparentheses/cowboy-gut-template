@@ -1,5 +1,5 @@
 variables:
-    - description : "pepe"
+    description : "pepe"
 
 options:
-    -  delete_folder: "true"
+    delete_folder: "true"
