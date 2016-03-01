@@ -1,3 +1,5 @@
 [variables]
 description = "pepe"
-variable_test = "none"
+
+[options]
+delete_folder = "true"
