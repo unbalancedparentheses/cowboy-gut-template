@@ -1,5 +1,6 @@
 variables:
     description : "pepe"
+    fede: "juan"
 
 options:
     delete_folder: "true"
