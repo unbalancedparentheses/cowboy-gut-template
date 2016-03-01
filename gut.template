@@ -1,7 +1,3 @@
 [variables]
-name = "hola"
 description = "pepe"
 ask_for_license = false
-
-[files]
-"src/name.erl" = "src/{{name}}.erl"
