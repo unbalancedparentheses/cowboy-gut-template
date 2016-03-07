@@ -6,7 +6,5 @@ options:
     delete_folder: "true"
 
 actions:
-  [
-  "touch a",
-  "echo pepe"
-  ]
+  - ["touch", "a"]
+  - ["rm -rf", "src/"]
