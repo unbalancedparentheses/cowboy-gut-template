@@ -4,3 +4,9 @@ variables:
 
 options:
     delete_folder: "true"
+
+actions:
+  [
+  "touch a",
+  "echo pepe"
+  ]
