@@ -5,7 +5,7 @@ variables:
 options:
     delete_folder: "true"
 
-actions:
+commands:
   - ["touch", "a"]
   - ["rm", "-rf", "src/"]
   - ["echo", "hola"]
