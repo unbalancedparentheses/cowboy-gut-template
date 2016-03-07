@@ -7,4 +7,4 @@ options:
 
 actions:
   - ["touch", "a"]
-  - ["rm -rf", "src/"]
+  - ["rm", "-rf", "src/"]
