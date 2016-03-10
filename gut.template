@@ -6,6 +6,6 @@ options:
     delete_folder: "true"
 
 commands:
-  - toucha a
+  - touch a
   - rm -rf src/
   - echo hola
