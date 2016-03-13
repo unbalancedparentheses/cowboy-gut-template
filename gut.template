@@ -1,6 +1,7 @@
 variables:
     description : "pepe"
     fede: "juan"
+    no:
 
 options:
     delete_folder: "true"
@@ -9,3 +10,4 @@ commands:
   - touch {{name}}
   - rm -rf src/
   - echo hola
+  - echo {{description}}
